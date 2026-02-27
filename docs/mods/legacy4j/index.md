@@ -12,9 +12,15 @@ hero:
       link: ../
 
 features:
+  - title: Biome Overrides
+    details: Modify certain aspects of biomes using resource packs
+    link: /mods/legacy4j/biome-overrides
   - title: Configuration
     details: Learn about the available configuration options and how to access them
     link: /mods/legacy4j/configuration
+  - title: Common Colors
+    details: Modify colors used in the User Interface using resource packs
+    link: /mods/legacy4j/common-colors
   - title: Controls
     details: Controller support and various quirks affecting all input types
     link: /mods/legacy4j/controls
@@ -24,6 +30,12 @@ features:
   - title: Intro Sequence
     details: Modify the game's intro sequence to fit your resource pack or modpack
     link: /mods/legacy4j/intro
+  - title: Listing-Based Manager
+    details: Modify listings (like the Crafting, Creative and Stonecutter listings) using resource packs
+    link: /mods/legacy4j/listing-based-manager
+  - title: Predicate-Based Manager
+    details: Modify aspects of the mod with predicates using resource packs
+    link: /mods/legacy4j/predicate-based-manager
   - title: Resource Pack Management
     details: Manage packs using Resource Albums and Global Resource Packs
     link: /mods/legacy4j/resource-pack-management
