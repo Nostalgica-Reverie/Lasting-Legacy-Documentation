@@ -6,6 +6,9 @@ hero:
   name: "Minimega"
   text: ""
   tagline: Recreating all the Mini Games from Legacy Console Edition!
+  image:
+    src: /mods/minimega/icon.png
+    alt: 'Minimega Icon'
   actions:
     - theme: brand
       text: Lasting Legacy Mods

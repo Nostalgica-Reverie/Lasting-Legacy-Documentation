@@ -6,6 +6,9 @@ hero:
   name: "Legacy4J"
   text: ""
   tagline: The flagship Legacy Console Edition mod, adapting all features to work with modern Minecraft versions
+  image:
+    src: /mods/legacy4j/icon.png
+    alt: 'Legacy4J Icon'
   actions:
     - theme: brand
       text: Lasting Legacy Mods
