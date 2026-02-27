@@ -7,11 +7,11 @@ hero:
   text: "Modpacks"
   tagline: Documentation for projects under Lasting Legacy, including Legacy4J and Re-Console
   image:
-    src: /banner.png
+    src: ./icons.png
     alt: 'Lasting Legacy Banner'
   actions:
     - theme: brand
-      text: Return to Homepage
+      text: Lasting Legacy Documentation
       link: ../
     - theme: alt
       text: Installation
