@@ -25,11 +25,13 @@ export default defineConfig({
         items: [
           {
             text: 'Legacy4J',
+            link: '/mods/legacy4j',
             items: [
               { text: 'Biome Overrides', link: '/mods/legacy4j/biome-overrides' },
               { text: 'Configuration', link: '/mods/legacy4j/configuration' },
               { text: 'Common Colors', link: '/mods/legacy4j/common-colors' },
               { text: 'Controls', link: '/mods/legacy4j/controls' },
+              { text: 'Custom Control Types', link: '/mods/legacy4j/custom-control-types' },
               { text: 'Gameplay Features', link: '/mods/legacy4j/gameplay-features' },
               { text: 'Intro Sequence', link: '/mods/legacy4j/intro' },
               { text: 'Listing-Based Manager', link: '/mods/legacy4j/listing-based-manager' },
@@ -46,6 +48,7 @@ export default defineConfig({
           },
           {
             text: 'Minimega',
+            link: '/mods/minimega',
             items: [
               { text: 'Fistfight', link: '/mods/minimega/fistfight' },
               { text: 'Glide', link: '/mods/minimega/glide' },
@@ -56,12 +59,14 @@ export default defineConfig({
           },
           {
             text: 'Legacy World Sizes',
+            link: '/mods/legacy-world-sizes',
             items: [
               { text: 'Syntax', link: '/mods/legacy-world-sizes/syntax' }
             ]
           },
           {
             text: 'GlobalAdvancements',
+            link: '/mods/globaladvancements',
             items: [
               { text: 'Syntax', link: '/mods/globaladvancements/syntax' }
             ]

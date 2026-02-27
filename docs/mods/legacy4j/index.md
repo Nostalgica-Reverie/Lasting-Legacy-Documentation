@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Legacy4J"
   text: ""
-  tagline: The flagship Legacy Console Edition mod, adapting all features to work with modern Minecraft versions
+  tagline: The flagship Legacy Console Edition mod, adapting all features to work with modern Minecraft versions<br>Docs written for Non-LTS Legacy4J
   image:
     src: /mods/legacy4j/icon.png
     alt: 'Legacy4J Icon'
@@ -26,6 +26,9 @@ features:
     link: /mods/legacy4j/common-colors
   - title: Controls
     details: Controller support and various quirks affecting all input types
+    link: /mods/legacy4j/controls
+  - title: Custom Control Types
+    details: Modify the Control Icons and title image using custom Control Types in a resource pack
     link: /mods/legacy4j/controls
   - title: Gameplay Features
     details: Various features impacting the overall gameplay loop, including Legacy Crafting and Legacy Combat
