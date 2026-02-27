@@ -28,7 +28,7 @@ features:
     details: All the Limited World features from Legacy Console Edition, adapted for all kinds of world generation.
     link: /mods/legacy-world-sizes
   - title: GlobalAdvancements
-    details: Legacy Console Edition and pre-1.12 Java Edition style global achievements!
+    details: Legacy Console Edition and pre-1.7 Java Edition style global achievements!
     link: /mods/globaladvancements
 ---
 
