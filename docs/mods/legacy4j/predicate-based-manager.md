@@ -1,4 +1,5 @@
-**It may seem like a strange name at first glance, but it is a way of encompassing the standard operation of the following managers, which are based on registry predicates of ids and [tags](https://minecraft.wiki/w/Tag), such as item, block and entity_type.**  
+# Predicate-Based Manager
+It may seem like a strange name at first glance, but it is a way of encompassing the standard operation of the following managers, which are based on registry predicates of ids and [tags](https://minecraft.wiki/w/Tag), such as item, block and entity_type.
 
 I will use an example of a part of a JSON file to explain this feature
 
