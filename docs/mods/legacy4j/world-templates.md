@@ -1,7 +1,7 @@
 # World Templates
 World Templates are the entries seen in the Create tab on the Play Game screen. These are defined through `namespace:world_templates.json` in a resource pack.
 
-![Example Image from Simply Legacy](/docs/modpacks/flagships/simply/mash.png)
+![Example Image from Simply Legacy](../../modpacks/flagships/simply/mash.png)
 <sub>World Templates provided by the Legacy Worlds resource pack</sub>
 
 ## Components
