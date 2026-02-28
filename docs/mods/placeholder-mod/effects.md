@@ -1,4 +1,5 @@
 # Effects
+To see an example XML file, see [Example XML](./example-xml)
 
 ### AppendToDialog
 Appends to an existing dialog `Text`.
