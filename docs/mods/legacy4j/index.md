@@ -29,7 +29,7 @@ features:
     link: /mods/legacy4j/controls
   - title: Custom Control Types
     details: Modify the Control Icons and title image using custom Control Types in a resource pack
-    link: /mods/legacy4j/controls
+    link: /mods/legacy4j/custom-control-types
   - title: Gameplay Features
     details: Various features impacting the overall gameplay loop, including Legacy Crafting and Legacy Combat
     link: /mods/legacy4j/gameplay-features
