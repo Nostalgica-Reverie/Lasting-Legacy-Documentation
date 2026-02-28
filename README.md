@@ -4,6 +4,8 @@ Documentation for projects under Lasting Legacy, including Legacy4J and Re-Conso
 
 **This repository is hosted on [git.nostalgica.net](https://git.nostalgica.net/Lasting-Legacy/Documentation) and mirrored on [GitHub](https://github.com/Nostalgica-Reverie/Lasting-Legacy-Documentation).**
 
+The Lasting Legacy Documentation is powered by [VitePress](https://vitepress.dev/), and most pages are written in [Markdown](https://en.wikipedia.org/wiki/Markdown).
+
 To run the docs on your own machine for contribution purposes:
 
 - Install [Node.js](https://nodejs.org/en/download) version 18 or higher
