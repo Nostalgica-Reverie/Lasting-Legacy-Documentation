@@ -94,6 +94,7 @@ export default defineConfig({
             text: 'Our Flagships <br> (Re-Console+/Simply Legacy)',
             items: [
               { text: 'Overview', link: '/modpacks/flagships/overview' },
+              { text: 'Options Presets', link: '/modpacks/flagships/options-presets' },
               { text: 'Resource Albums', link: '/modpacks/flagships/resource-albums' },
               { text: 'Re-Console LTS', link: '/modpacks/flagships/rc-long-term-support' }
             ]
