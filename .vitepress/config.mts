@@ -107,7 +107,8 @@ export default defineConfig({
           {
             text: '2000s Edition',
             items: [
-              { text: 'Overview', link: '/modpacks/2000s-edition/overview' }
+              { text: 'Overview', link: '/modpacks/2000s-edition/overview' },
+              { text: 'TU9 Accuracy', link: '/modpacks/2000s-edition/tu9-accuracy' }
             ]
           }
         ]

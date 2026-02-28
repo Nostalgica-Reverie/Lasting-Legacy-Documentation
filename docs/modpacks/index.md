@@ -19,13 +19,13 @@ hero:
 
 features:
   - title: Our Flagships
-    details: Re-Console+ and Simply Legacy are made to bring the Legacy Console experience to a modern vanilla playstyle
+    details: Re-Console+ and Simply Legacy are made to bring the Legacy Console experience to a modern vanilla playstyle.
     link: /modpacks/flagships/overview
   - title: Rekindled Legacy
     details: A faithful re-creation of older Legacy Console Edition versions!
     link: /modpacks/rekindled-legacy/overview
   - title: 2000s Edition
-    details: Imagine if the Legacy Console Edition was released in the early 2000s
+    details: Imagine if the Legacy Console Edition was released in the early 2000s.
     link: /modpacks/2000s-edition/overview
 ---
 
