@@ -1,0 +1,11 @@
+:root {
+    --vp-c-bg: #fdfeaa;
+}
+
+.dark .box {
+    background-image: url("https://img.edilportale.com/product-thumbs/b_kawaii-novoceram-566067-relcdc5bbf1.jpg");
+}
+
+.dark {
+    --vp-c-bg: #747e44;
+}
