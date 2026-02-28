@@ -4,17 +4,17 @@ While Legacy4J can still play in a similar manner to vanilla Java Edition, there
 ## Control Icons
 Also commonly known as _controller tooltips_, these are the icons are used to surface available actions in the current context.
 
-![Control Icons Example](/docs/mods/legacy4j/control-icons.png)
+![Control Icons Example](/mods/legacy4j/control-icons.png)
 <sub> The icons you could see in a Crafting Table when using a Keyboard and Mouse </sub>
 
 ### Changing the Appearance
 - You can change what control icon set and even what Minecraft title is used by changing the `Control Type` option
 
-<video controls="controls" src="/docs/mods/legacy4j/control-type.mp4"/>
+<video controls="controls" src="/mods/legacy4j/control-type.mp4"/>
 <sub>Changing the Control Type with the Legacy Titles resource pack</sub>
 
 - The icons will also change appearance based on the set `UI Mode`
-![Tooltips in various UI Modes](/docs/mods/legacy4j/control-icons-res.png)
+![Tooltips in various UI Modes](/mods/legacy4j/control-icons-res.png)
 <sub> Xbox 360 Edition icons at Full HD (1080p), HD (720p) and SD (480p) modes, respectively</sub>
 
 **Lock Control Type Change** <br>
@@ -22,13 +22,13 @@ By default, when switching between keyboard and gamepad input, the icons will sw
 
 With this option enabled, the selected `Control Type` will persist even when using a keyboard/mouse for input:
 
-<video controls="controls" src="/docs/mods/legacy4j/lock_control_type_change.mp4"/>
+<video controls="controls" src="/mods/legacy4j/lock_control_type_change.mp4"/>
 
 - The `Auto` Control Type will apply the type corresponding to the detected controller, or `Java Edition` if using just a keyboard
 
-<video controls="controls" src="/docs/mods/legacy4j/auto_control_type.mp4"/>
+<video controls="controls" src="/mods/legacy4j/auto_control_type.mp4"/>
 
-For information on modifying `Control Icons` and the Minecraft title using a resource pack, see [Custom Control Types](/docs/mods/legacy4j/custom-control-types)
+For information on modifying `Control Icons` and the Minecraft title using a resource pack, see [Custom Control Types](/mods/legacy4j/custom-control-types)
 
 ## Cursor Mode
 This option controls how the mouse cursor should be shown
