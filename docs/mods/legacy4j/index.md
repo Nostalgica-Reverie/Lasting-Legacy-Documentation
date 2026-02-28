@@ -45,6 +45,9 @@ features:
   - title: Resource Pack Management
     details: Manage packs using Resource Albums and Global Resource Packs
     link: /mods/legacy4j/resource-pack-management
+  - title: Version Support
+    details: The versions of Minecraft and various modloaders supported by Legacy4J, LTS or non-LTS
+    link: /mods/legacy4j/version-support
   - title: World Templates
     details: Learn how to add custom worlds to the Create tab
     link: /mods/legacy4j/world-templates

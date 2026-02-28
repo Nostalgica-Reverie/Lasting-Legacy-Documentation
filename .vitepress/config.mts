@@ -37,6 +37,7 @@ export default defineConfig({
               { text: 'Listing-Based Manager', link: '/mods/legacy4j/listing-based-manager' },
               { text: 'Predicate-Based Manager', link: '/mods/legacy4j/predicate-based-manager' },
               { text: 'Resource Pack Management', link: '/mods/legacy4j/resource-pack-management' },
+              { text: 'Version Support', link: '/mods/legacy4j/version-support' },
               { text: 'World Templates', link: '/mods/legacy4j/world-templates' }
             ]
           },

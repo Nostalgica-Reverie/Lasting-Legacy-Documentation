@@ -3,7 +3,7 @@ Releases of Re-Console using the original multi-version strategy are known as Re
 
 While Re-Console+ has more features and only releases for the Fabric modloader on the latest Minecraft version available for the majority of our feature mods, Re-Console LTS supports multiple different versions of the game with multiple different modloaders
 
-## Current LTS Versions
+### Current LTS Versions
 | Minecraft Release | Fabric | Quilt | Forge | NeoForge |
 |--|--|--|--|--|
 | 1.21.8 |✅|✅|❌|❌|
