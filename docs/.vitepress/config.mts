@@ -2,14 +2,17 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: "docs",
-  
+  cleanUrls: true,
+  sitemap: {
+    hostname: "https://docs.nostalgica.net/",
+  },
+
   title: "Lasting Legacy Docs",
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   description: "Documentation for projects under Lasting Legacy, including Legacy4J and Re-Console",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    siteTitle: `Documentation`,
+    siteTitle: `Lasting Legacy Documentation`,
     logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
