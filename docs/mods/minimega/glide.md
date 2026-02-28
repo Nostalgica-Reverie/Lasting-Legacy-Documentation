@@ -3,7 +3,7 @@ Glide is a mini game from Legacy Console Edition where you fly through various d
 
 ## Maps
 | Image | Map Name | Description |
-| ------------- | :-----------: | ----: |
+| ------------- | ----------- | ---- |
 | ![celts](./images/glide-maps/celts.png){width=200} | Celts | Slalom through Standing Stones and marvel at mighty beasts, as you traverse a track inspired by Europe's mystic past. |
 | ![icarus](./images/glide-maps/icarus.png){width=200} | Icarus | Swoop down the slopes of Mount Olympus, twist through the labyrinth's many turns and hurtle into Hades. |
 | ![excalibur](./images/glide-maps/excalibur.png){width=200} | Excalibur | Castles and dragons tower over this fantasy Glide track. It'll take flying skills of some (ex)caliber to get you to the end of this Arthurian legend. |
