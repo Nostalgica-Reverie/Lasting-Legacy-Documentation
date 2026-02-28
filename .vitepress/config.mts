@@ -59,6 +59,13 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Mod Name Not Decided Yet',
+            link: '/mods/placeholder-mod',
+            items: [
+              { text: 'Effects', link: '/mods/placeholder-mod/effects' }
+            ]
+          },
+          {
             text: 'Legacy World Sizes',
             link: '/mods/legacy-world-sizes',
             items: [
