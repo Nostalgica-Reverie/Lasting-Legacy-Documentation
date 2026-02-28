@@ -1,4 +1,5 @@
 # Triggers
+To see an example XML file, see [Example XML](./example-xml)
 
 ### All
 Returns `true` if every contained trigger returns `true`.

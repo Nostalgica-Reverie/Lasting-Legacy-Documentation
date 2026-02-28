@@ -63,6 +63,7 @@ export default defineConfig({
             link: '/mods/placeholder-mod',
             items: [
               { text: 'Effects', link: '/mods/placeholder-mod/effects' },
+              { text: 'Example XML', link: '/mods/placeholder-mod/example-xml' },
               { text: 'Triggers', link: '/mods/placeholder-mod/triggers' }
             ]
           },
