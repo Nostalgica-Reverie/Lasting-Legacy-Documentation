@@ -13,6 +13,9 @@ Global Resource Packs can be configured in a similar way as vanilla Resource Pac
 
 Resource Albums are like groups of resource packs that can be applied at once. Albums can be applied per-world (like on LCE), or as the default pack for new worlds if applied in the Graphics options on the main menu. These can also be applied through a World Template.
 
+### Album Options
+In `Album Options`, you can delete, edit and create new Resource Albums with a custom name and description.
+
 ## Ordering
 
 If `globalPack1`/`globalPack2` were applied in Global Resource Packs, and `albumPack1`/`albumPack2` in the Resource Album, this would be the order of the applied Resource Packs:

@@ -11,6 +11,7 @@ Also commonly known as _controller tooltips_, these are the icons are used to su
 - You can change what control icon set and even what Minecraft title is used by changing the `Control Type` option
 
 <video controls="controls" src="/mods/legacy4j/control-type.mp4"/>
+<sub>Changing the Control Type with the Legacy Titles resource pack</sub>
 
 - The icons will also change appearance based on the set `UI Mode`
 ![Tooltips in various UI Modes](/mods/legacy4j/control-icons-res.png)
