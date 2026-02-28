@@ -7,12 +7,12 @@ export default defineConfig({
     hostname: "https://docs.nostalgica.net/",
   },
 
-  title: "Lasting Legacy Documentation",
+  title: "Lasting Legacy Docs",
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   description: "Documentation for projects under Lasting Legacy, including Legacy4J and Re-Console",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    siteTitle: `Lasting Legacy Documentation`,
+    siteTitle: `Lasting Legacy Docs`,
     logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
