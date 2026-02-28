@@ -6,7 +6,6 @@ export default defineConfig({
   sitemap: {
     hostname: "https://docs.nostalgica.net/",
   },
-  base: "/docs/",
 
   title: "Lasting Legacy Docs",
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
