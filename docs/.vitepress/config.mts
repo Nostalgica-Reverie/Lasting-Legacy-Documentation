@@ -7,7 +7,7 @@ export default defineConfig({
     hostname: "https://docs.nostalgica.net/",
   },
 
-  title: "Lasting Legacy Docs",
+  title: "Lasting Legacy Documentation",
   head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   description: "Documentation for projects under Lasting Legacy, including Legacy4J and Re-Console",
   themeConfig: {
