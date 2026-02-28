@@ -16,6 +16,8 @@ Resource Albums are like groups of resource packs that can be applied at once. A
 ### Album Options
 In `Album Options`, you can delete, edit and create new Resource Albums with a custom name and description.
 
+For information on syntax of the `resource_albums.json`, see [Resource Album Syntax](/mods/legacy4j/resource-album-syntax)
+
 ## Ordering
 
 If `globalPack1`/`globalPack2` were applied in Global Resource Packs, and `albumPack1`/`albumPack2` in the Resource Album, this would be the order of the applied Resource Packs:
