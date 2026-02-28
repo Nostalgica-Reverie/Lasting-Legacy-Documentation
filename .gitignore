@@ -1,4 +1,4 @@
 /.vscode
 /node_modules
-/.vitepress/cache
+docs/.vitepress/cache
 /.idea
