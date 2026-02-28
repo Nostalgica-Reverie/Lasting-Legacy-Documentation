@@ -62,7 +62,8 @@ export default defineConfig({
             text: 'Mod Name Not Decided Yet',
             link: '/mods/placeholder-mod',
             items: [
-              { text: 'Effects', link: '/mods/placeholder-mod/effects' }
+              { text: 'Effects', link: '/mods/placeholder-mod/effects' },
+              { text: 'Triggers', link: '/mods/placeholder-mod/triggers' }
             ]
           },
           {

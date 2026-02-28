@@ -18,5 +18,8 @@ features:
   - title: Action Definitions
     details: Fly through various maps and test your aeronautic skills! An Original LCE Mini Game.
     link: /mods/placeholder-mod/effects
+  - title: Action Definitions
+    details: Fly through various maps and test your aeronautic skills! An Original LCE Mini Game.
+    link: /mods/placeholder-mod/triggers
 ---
 
