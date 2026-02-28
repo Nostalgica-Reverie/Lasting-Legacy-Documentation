@@ -7,7 +7,7 @@ hero:
   text: "Mods"
   tagline: Mods made to recreate parts of Legacy Console Edition experience
   image:
-    src: /img/banner.png
+    src: /banner.png
     alt: 'Lasting Legacy Banner'
   actions:
     - theme: brand
