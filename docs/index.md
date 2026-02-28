@@ -7,7 +7,7 @@ hero:
   text: "Documentation"
   tagline: Documentation for projects under Lasting Legacy, including Legacy4J and Re-Console
   image:
-    src: /banner.png
+    src: /img/banner.png
     alt: 'Lasting Legacy Banner'
   actions:
     - theme: brand
