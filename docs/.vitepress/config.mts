@@ -12,7 +12,7 @@ export default defineConfig({
   description: "Documentation for projects under Lasting Legacy, including Legacy4J and Re-Console",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    siteTitle: `Lasting Legacy Documentation`,
+    siteTitle: `Lasting Legacy Docs`,
     logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
