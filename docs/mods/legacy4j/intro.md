@@ -37,7 +37,8 @@ Components which can be defined in the Intro Sequence include:
 - Percentage of the delay used for the fade out ([`fadeOut`](#fadeOut))
 - If there will be crossfade between the images ([`crossFade`](#crossFade))
 
-### `brands` (required)
+### `brands`
+<sub>(required)</sub>
 The images used in the intro sequence can be defined by `brands` <br>
 ::: info
 This field is required for the `intro.json` to work
