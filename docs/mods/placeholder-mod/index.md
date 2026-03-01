@@ -2,6 +2,7 @@
 # https://vitepress.dev/reference/default-theme-home-page
 {
   "layout": "home",
+  "title": "Mod Name Not Yet Decided",
   "hero": {
     "name": "Placeholder mod",
     "text": "",

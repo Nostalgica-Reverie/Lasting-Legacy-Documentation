@@ -1,3 +1,6 @@
+---
+title: Resource Album Syntax
+---
 # `resource_album.json` Syntax
 
 ## Components

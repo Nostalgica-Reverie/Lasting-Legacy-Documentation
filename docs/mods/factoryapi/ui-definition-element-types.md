@@ -1,4 +1,4 @@
-# Default Element Types
+# UI Definition Element Types
 The following UI Definition Element Types are added by default to the Factory API, but other mods that integrate with it may add others
 
 - `children` -> **Organizes the elements within the JSON file and allows you to add a prefix to their name**

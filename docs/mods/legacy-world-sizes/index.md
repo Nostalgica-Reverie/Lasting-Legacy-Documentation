@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: Legacy World Sizes
 
 hero:
   name: "Legacy World Sizes"

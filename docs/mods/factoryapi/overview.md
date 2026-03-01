@@ -1,10 +1,8 @@
-**Welcome to the FactoryAPI Wiki!**
-
-Here you will learn about features for developers and even regular players!
+# Overview
 
 Clearly the main focus of the Factory API is for developers, but that doesn't stop it from having some features for players as well.
 
-# Basic Concepts
+## Basic Concepts
 
 ### Player Features
 * UI Definition | **a way to change the interface with `.json` files in `<namespace>:ui_definitions/` with just the use of resource packs**

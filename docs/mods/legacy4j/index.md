@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: Legacy4J
 
 hero:
   name: "Legacy4J"

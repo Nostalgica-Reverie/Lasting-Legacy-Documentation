@@ -1,3 +1,5 @@
+# UI Definitions
+
 These are `.json` files loaded into the directory and subdirectories of `<namespace>:ui_definitions/`, that can change all the game interfaces.
 
 To make it easier to understand, they will be divided into 3 topics, the `Target UI`, `Apply Conditions` and the `Elements`.
