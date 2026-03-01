@@ -44,6 +44,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'forgejo', link: 'https://git.nostalgica.net/Lasting-Legacy' },
+      { icon: 'discord', link: 'https://discord.gg/6pRkrYxbGW'}
       ],
     },
     markdown: {
