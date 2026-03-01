@@ -19,14 +19,29 @@ hero:
       link: ./installation
 
 features:
-  - title: Our Flagships
-    details: Re-Console+ and Simply Legacy are made to bring the Legacy Console experience to a modern vanilla playstyle.
-    link: /modpacks/flagships/overview
+  - title: Re-Console+
+    icon:
+      src: /rc-icon.png
+    details: A continued Legacy Console Edition experience, expanded upon with modern Java Edition content and QoL!
+    link: /modpacks/re-console/overview
+    linkText: Overview
+  - title: Simply Legacy
+    icon:
+      src: /simply-icon.png
+    details: A faithful, fully-featured continuation of the vanilla Legacy Console Edition experience for PCs, Steam Decks and more!
+    link: /modpacks/simply-legacy/overview
+    linkText: Overview
   - title: Rekindled Legacy
+    icon:
+      src: /rekindled-icon.png
     details: A faithful re-creation of older Legacy Console Edition versions!
     link: /modpacks/rekindled-legacy/overview
+    linkText: Overview
   - title: 2000s Edition
+    icon:
+      src: /2000s-icon.png
     details: Imagine if the Legacy Console Edition was released in the early 2000s.
     link: /modpacks/2000s-edition/overview
+    linkText: Overview
 ---
 
