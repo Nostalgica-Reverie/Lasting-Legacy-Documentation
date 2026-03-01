@@ -1,3 +1,6 @@
+---
+title: About Us
+---
 # Lasting Legacy
 
 Lasting Legacy is a group of developers, artists and contributors dedicated to maintaining a feature-complete and up-to-date vision of 4J Studios' Minecraft port, the Legacy Console Edition. <br>
@@ -49,6 +52,9 @@ Panduino
 ### 2000s Edition
 **Creator, Lead Maintainer** <br>
 NicSonic-_-
+
+## Hosting Infrastructure
+Technocality
 
 ## Publishing Software
 ### PackItUp 
