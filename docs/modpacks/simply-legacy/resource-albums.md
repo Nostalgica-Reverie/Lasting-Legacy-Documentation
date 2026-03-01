@@ -1,8 +1,9 @@
 # Resource Albums
-Below is a list of Texture Packs used by our modpacks that are either in/out of service, or have yet to be filled in, in mostly the same order as Legacy Console Edition (considering differences between platforms), and with the US English names/descriptions used by the modpacks
+Below is a list of Resource Albums used by Simply Legacy and Re-Console replicating Legacy Console Edition's Texture Packs. Packs listed are either in/out of service, or have yet to be ported to Java Edition, in mostly the same order as LCE (considering differences between platforms), and with the US English names/descriptions.<br>For Resource Albums exclusive to Re-Console+, see [Re-Console: Resource Albums](../re-console/resource-albums)
 
-\* Albums that can be loaded by Legacy Worlds
-
+::: info NOTE
+🌐 denotes album IDs that are used by Legacy Worlds to load the corresponding textures for a Mash-Up World
+:::
 ## Minecraft Texture Pack
  "Default Minecraft Textures"
 
@@ -17,40 +18,33 @@ Pack Name Key: `legacy.menu.albums.resource.minecraft_classic` <br>
 Pack Description Key: `legacy.menu.albums.resource.minecraft_classic.description` <br>
 Resource Album ID: `minecraft_classic` <br>
 Availability: Legacy4J
-## PlayStation® 4 Parity Pack
-"Using Console Aspects by AgentMindStorm, this is the most accurate group of textures to PS4 edition."
-
-Pack Name Key: `legacy.menu.albums.resource.toy` <br>
-Pack Description Key: `legacy.menu.albums.resource.toy.description` <br>
-Resource Album ID: `ps4parity` <br>
-Availability: Re-Console
-## Toy Story Mash-Up*
+## Toy Story Mash-Up
 "Open up the toy box! Woody, Buzz, Bo Peep and many of your favorite toys come to life in this oversized Mash-up based on all the Toy Story movies! To infinity and beyond!"
 
 Pack Name Key: `legacy.menu.albums.resource.toy` <br>
 Pack Description Key: `legacy.menu.albums.resource.toy.description` <br>
-Resource Album ID: `toy_story` <br>
+Resource Album ID: `toy_story` 🌐<br>
 Availability: Taken down due to Copyright
-## Steven Universe*
+## Steven Universe
 "Steven enters the Minecraft universe in this Diamond-worthy Mash-up! Contains Steven Universe themed skins, textures, original music from the show, and all your favorite locations, from Beach City to Homeworld. Believe in Steven!"
 
 Pack Name Key: `legacy.menu.albums.resource.steven_uni` <br>
 Pack Description Key: `legacy.menu.albums.resource.steven_uni.description` <br>
-Resource Album ID: `steven_uni` <br>
+Resource Album ID: `steven_uni` 🌐<br>
 Availability: Taken down due to Copyright
-## The Nightmare Before Christmas*
+## The Nightmare Before Christmas
 "A nightmare? Before Christmas? With thousands of blocks over there, and more redstone than I can bear? Looks scary, but also fun! Could it be I got my wish? Should I play, or should I run? A Christmas pack so nightmarish!"
 
 Pack Name Key: `legacy.menu.albums.resource.nightmare` <br>
 Pack Description Key: `legacy.menu.albums.resource.nightmare.description` <br>
-Resource Album ID: `nightmare` <br>
+Resource Album ID: `nightmare` 🌐<br>
 Availability: Taken down due to Copyright
-## Pirates Of The Caribbean Mash-up*
+## Pirates Of The Caribbean Mash-up
 "Take what you can. Give nothing back! Join Jack and his crew in the Pirates of the Caribbean Mash-up, featuring all of your favorite rogues and rascals. Plot a course from Tortuga to Shipwreck Cove and all the way down to Davy Jones’ Locker. This is the day you will always remember as the day you sailed with Captain Jack Sparrow."
 
 Pack Name Key: `legacy.menu.albums.resource.caribbean` <br>
 Pack Description Key: `legacy.menu.albums.resource.caribbean.description` <br>
-Resource Album ID: `caribbean` <br>
+Resource Album ID: `caribbean` 🌐<br>
 Availability: Simply Legacy and Re-Console
 ## Super Cute Texture Pack
 "The Super Cute Texture Pack lets you create a cheerful world full of the cutest and cuddliest mobs! Bouncing bunnies, ultra-adorable unicorns, brilliant bumblebees and, er, burgers? Yes, burgers! Even the squid will make you Squeee! This texture pack comes with 15 skins!"
@@ -59,47 +53,47 @@ Pack Name Key: `legacy.menu.albums.resource.super_cute` <br>
 Pack Description Key: `legacy.menu.albums.resource.super_cute.description` <br>
 Resource Album ID: `super_cute` <br>
 Availability: Simply Legacy and Re-Console
-## Egyptian Mythology*
+## Egyptian Mythology
 "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, a pantheon of skins and an epic soundtrack!"
 
 Pack Name Key: `legacy.menu.albums.resource.egyptian` <br>
 Pack Description Key: `legacy.menu.albums.resource.egyptian.description` <br>
-Resource Album ID: `egyptian` <br>
+Resource Album ID: `egyptian` 🌐<br>
 Availability: Simply Legacy and Re-Console
-## Norse Mythology*
+## Norse Mythology
 "Are you heroic enough to enter the Great Hall, Valhalla? Find out in the Norse Mythology Mash-up! Compose your own grand saga as you voyage through the 9 realms, from the treetops of Yggdrasil, down into the mines of Svartalfheim and the depths of Hel! The third episode in the mythology series, this pack has hand carved textures, a thunderous soundtrack and a horde of skins. Skål!"
 
 Pack Name Key: `legacy.menu.albums.resource.norse` <br>
 Pack Description Key: `legacy.menu.albums.resource.norse.description` <br>
-Resource Album ID: `norse` <br>
+Resource Album ID: `norse` 🌐<br>
 Availability: Simply Legacy and Re-Console
-## Festive*
+## Festive
 "Celebrate the Festive period with this wintery Mash-Up Pack! This pack contains a Festive style Texture Pack, Skin Pack, new music and a Festive world."
 
 Pack Name Key: `legacy.menu.albums.resource.festive` <br>
 Pack Description Key: `legacy.menu.albums.resource.festive.description` <br>
-Resource Album ID: `festive` <br>
+Resource Album ID: `festive` 🌐<br>
 Availability: Simply Legacy and Re-Console
-## Chinese Mythology*
+## Chinese Mythology
 "Journey through epic terrain and find enlightenment in the land of dragons with this Mash-up Pack inspired by the myths and legends of China. Minecrafters get to explore a Chinese Mythology-themed world, with glorious Textures, legendary Skins and enchanting Music. The Pack also includes a themed Battle map exclusive to this Mash-up!"
 
 Pack Name Key: `legacy.menu.albums.resource.chinese` <br>
 Pack Description Key: `legacy.menu.albums.resource.chinese.description` <br>
-Resource Album ID: `chinese` <br>
+Resource Album ID: `chinese` 🌐<br>
 Availability: Simply Legacy and Re-Console
-## Greek Mythology*
+## Greek Mythology
 "Mythical Greece meets Minecraft! This Mash-Up Pack contains a Greek Mythology style Texture Pack, Skin Pack, and a themed world to explore."
 
 Pack Name Key: `legacy.menu.albums.resource.greek` <br>
 Pack Description Key: `legacy.menu.albums.resource.greek.description` <br>
-Resource Album ID: `greek` <br>
+Resource Album ID: `greek` 🌐<br>
 Availability: Simply Legacy and Re-Console
-## Adventure Time*
+## Adventure Time
 "Adventure Time goes totally geometric in this Minecraft Mash-up Pack - containing an Adventure Time-themed Skin Pack, Texture Pack, original soundtrack and the Land of Ooo itself! Ooh!"
 
 Pack Name Key: `legacy.menu.albums.resource.adv_time` <br>
 Pack Description Key: `legacy.menu.albums.resource.adv_time.description` <br>
-Resource Album ID: `adv_time` <br>
+Resource Album ID: `adv_time` 🌐<br>
 Availability: Taken down due to Copyright
 ## City Texture Pack
 "A creative texture set, ideal for building structures. The perfect set for the focused builder."
@@ -122,19 +116,19 @@ Pack Name Key: `legacy.menu.albums.resource.natural` <br>
 Pack Description Key: `legacy.menu.albums.resource.natural.description` <br>
 Resource Album ID: `plastic` <br>
 Availability: Simply Legacy and Re-Console
-## Fallout*
+## Fallout
 "Welcome to the Wasteland! Celebrate the Fallout® series in Minecraft by cracking open this Vault containing 44 unique skins, custom textures, re-skinned mobs, a special post-apocalyptic map, original Fallout soundtrack compilation and a Pip-Boy inspired UI."
 
 Pack Name Key: `legacy.menu.albums.resource.fallout` <br>
 Pack Description Key: `legacy.menu.albums.resource.fallout.description` <br>
-Resource Album ID: `fallout` <br>
+Resource Album ID: `fallout` 🌐<br>
 Availability: Simply Legacy and Re-Console
-## The Elder Scrolls V: Skyrim*
+## The Elder Scrolls V: Skyrim
 "The Elder Scrolls V: Skyrim meets Minecraft! This Mash-Up Pack contains a Skyrim style Texture Pack, Skin Pack, and a Skyrim themed world to explore!"
 
 Pack Name Key: `legacy.menu.albums.resource.dragonborn` <br>
 Pack Description Key: `legacy.menu.albums.resource.dragonborn.description` <br>
-Resource Album ID: `dragonborn` <br>
+Resource Album ID: `dragonborn` 🌐<br>
 Availability: Taken down due to Copyright
 ## Fantasy Texture Pack
 "The golden times are here. A medieval, fantasy look for your worlds."
@@ -185,87 +179,31 @@ Pack Name Key: `legacy.menu.albums.resource.halloween_2015` <br>
 Pack Description Key: `legacy.menu.albums.resource.halloween_2015.description` <br>
 Resource Album ID: `halloween_2015` <br>
 Availability: Simply Legacy and Re-Console
-## Mass Effect*
+## Mass Effect
 "Mass Effect meets Minecraft! This Mash-Up Pack contains a Mass Effect style Texture Pack, and a Skin Pack with 36 Mass Effect characters!"
 
 Pack Name Key: `legacy.menu.albums.resource.n7` <br>
 Pack Description Key: `legacy.menu.albums.resource.n7.description` <br>
-Resource Album ID: `n7` <br>
+Resource Album ID: `n7` 🌐<br>
 Availability: Simply Legacy and Re-Console
-## LittleBigPlanet™*
+## LittleBigPlanet™
 "LittleBigPlanet™ meets Minecraft! This Mash-Up Pack contains a LittleBigPlanet™ style Texture Pack, Skin Pack, and a LittleBigPlanet™ themed world to explore!"
 
 Pack Name Key: `legacy.menu.albums.resource.sackboy` <br>
 Pack Description Key: `legacy.menu.albums.resource.sackboy.description` <br>
-Resource Album ID: `sackboy` <br>
+Resource Album ID: `sackboy` 🌐<br>
 Availability: Coming Soon
-## Super Mario*
+## Super Mario
 "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario-style Texture Pack, Skin Pack and a Super Mario-themed world to explore!"
 
 Pack Name Key: `legacy.menu.albums.resource.super_mario` <br>
 Pack Description Key: `legacy.menu.albums.resource.super_mario.description` <br>
-Resource Album ID: `super_mario` <br>
+Resource Album ID: `super_mario` 🌐<br>
 Availability: Simply Legacy and Re-Console
-## Halloween*
+## Halloween
 "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride."
 
 Pack Name Key: `legacy.menu.albums.resource.halloween` <br>
 Pack Description Key: `legacy.menu.albums.resource.halloween.description` <br>
-Resource Album ID: `halloween` <br>
+Resource Album ID: `halloween` 🌐<br>
 Availability: Simply Legacy and Re-Console
-## Dark Mode Texture Pack
-"Experience Minecraft in Dark Mode! Enjoy a better late night experience!"
-
-Pack Name Key: `legacy.menu.albums.resource.darkmode` <br>
-Pack Description Key: `legacy.menu.albums.resource.darkmode.description` <br>
-Resource Album ID: `darkmode` <br>
-Availability: Re-Console
-## Animated Texture Pack
-"Start moving like a movie with the Animated Texture Pack, bringing your game to life on your own system!"
-
-Pack Name Key: `legacy.menu.albums.resource.animated` <br>
-Pack Description Key: `legacy.menu.albums.resource.animated.description` <br>
-Resource Album ID: `animated` <br>
-Availability: Re-Console
-## Trailer Texture Pack
-"Experience Minecraft like it is in the Trailers! With colorful textures, this pack is great for those looking to enjoy the game in a very vibrant fashion."
-
-Pack Name Key: `legacy.menu.albums.resource.trailer` <br>
-Pack Description Key: `legacy.menu.albums.resource.trailer.description` <br>
-Resource Album ID: `trailer` <br>
-Availability: Re-Console
-## Vanilla Plus Texture Pack
-"3D rails.. 3D doors.. and MORE!"
-
-Pack Name Key: `legacy.menu.albums.resource.vanillaplus` <br>
-Pack Description Key: `legacy.menu.albums.resource.vanillaplus.description` <br>
-Resource Album ID: `vanillaplus` <br>
-Availability: Re-Console
-## High-Resolution Texture Pack
-"The original Minecraft texture feel, with double the resolution and double the fun!"
-
-Pack Name Key: `legacy.menu.albums.resource.faithful` <br>
-Pack Description Key: `legacy.menu.albums.resource.faithful.description` <br>
-Resource Album ID: `faithful` <br>
-Availability: Re-Console
-## Beta Texture Pack
-"Return to the Golden Age of Minecraft."
-
-Pack Name Key: `legacy.menu.albums.resource.beta` <br>
-Pack Description Key: `legacy.menu.albums.resource.beta.description` <br>
-Resource Album ID: `beta` <br>
-Availability: Re-Console
-## Alpha Texture Pack
-"Have a throwback to alpha with this Texture Pack!"
-
-Pack Name Key: `legacy.menu.albums.resource.alpha` <br>
-Pack Description Key: `legacy.menu.albums.resource.alpha.description` <br>
-Resource Album ID: `alpha` <br>
-Availability: Re-Console
-## Live Texture Pack
-"Experience Minecraft like the Minecraft Lives! Enjoy a high definition, high quality texture pack!"
-
-Pack Name Key: `legacy.menu.albums.resource.live` <br>
-Pack Description Key: `legacy.menu.albums.resource.live.description` <br>
-Resource Album ID: `live` <br>
-Availability: Re-Console
