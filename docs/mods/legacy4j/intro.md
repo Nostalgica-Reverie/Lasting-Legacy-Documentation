@@ -54,11 +54,11 @@ The duration of each slide in milliseconds be defined by `brandDuration`. <br> 2
 
 ### `fadeIn`
 The length of the fade in animation can be defined by `fadeIn`. <br>
-This is defined in seconds as a float, so a `fadeIn` of 0.1 = 0.1 seconds of fade in.
+This is defined as the percentage of the total runtime of the intro sequence.
 
 ### `fadeOut`
 The length of the fade out animation can be defined by `fadeOut`. <br>
-Same as `fadeIn`, this is defined in seconds as a float, so a `fadeOut` of 0.1 = 0.1 seconds of fade out.
+Same as `fadeIn`, this is defined as the percentage of the total runtime of the intro sequence.
 
 ### `crossFade`
 Whether the images are crossfaded between can be defined by `crossFade`. <br>
