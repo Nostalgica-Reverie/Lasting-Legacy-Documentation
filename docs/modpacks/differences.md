@@ -8,7 +8,7 @@ What makes them different is feature scope:
 - Simply Legacy aims to have an experience closest to the original Legacy Console Edition, while also preserving much of vanilla Minecraft's gameplay and improving performance
 - Re-Console+ aims to have extra content to enhance the gameplay experience past the base Legacy Console experience, with visual enhancements and additional content
 
-### Feature 
+### Key
 
 - ✅ Included
 - ❌ Not included
@@ -43,7 +43,7 @@ What makes them different is feature scope:
 | Custom Options Presets | ✅ | ✅ |
 | Online Multiplayer with e4mc | ✅ | ✅ |
 | Built-in Shaders | ✅ | ❌ |
-| Extra "Java-specific" Texture Packs <br> (like Bare Bones and Faithful) | ✅ | ❌ |
+| Extra "Java-native" Texture Packs <br> (like Bare Bones and Faithful) | ✅ | ❌ |
 | Alpha and Beta Texture Packs | ✅ | ❌ |
 | OptiFine Gameplay features <br> (Dynamic lighting, zoom, BetterGrass, etc.) | ✅ | ❌ |
 | Extra Utilities <br> (Ping View, CalcMod, Chat Heads, etc.) | ✅ | ❌ |
