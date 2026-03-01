@@ -7,7 +7,7 @@ hero:
   text: ""
   tagline: The flagship Legacy Console Edition mod, adapting all features to work with modern Minecraft versions<br>Docs written for Non-LTS Legacy4J
   image:
-    src: /mods/legacy4j/icon.png
+    src: /l4j-icon.png
     alt: 'Legacy4J Icon'
   actions:
     - theme: brand

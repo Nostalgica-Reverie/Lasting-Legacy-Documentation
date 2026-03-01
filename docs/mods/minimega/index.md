@@ -7,7 +7,7 @@ hero:
   text: ""
   tagline: Recreating all the Mini Games from Legacy Console Edition!
   image:
-    src: /mods/minimega/icon.png
+    src: /mm-icon.png
     alt: 'Minimega Icon'
   actions:
     - theme: brand
