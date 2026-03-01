@@ -39,7 +39,7 @@ Simply Legacy is a modpack aiming to recreate Legacy Console Edition in a manner
 ![Simply Legacy World Sizes](./images/sizes.png)
 ![Simply Legacy World Sizes Map](./images/sizes-map.png)
 :::
-- [Custom Legacy4J Options Presets](/modpacks/flagships/options-presets)
+- [Custom Legacy4J Options Presets](/modpacks/options-presets)
   - Render Distance maxes out at 64 chunks
   - Easily enable/disable the Fake Autosave Screen
 ::: details Screenshots
