@@ -45,14 +45,13 @@ export default defineConfig({
     socialLinks: [
       { icon: 'forgejo', link: 'https://git.nostalgica.net/Lasting-Legacy' },
       ],
-
+    },
     markdown: {
-       image: {
+      image: {
         lazyLoading: true,
-      },
-       config: (md) => {
+    },
+      config: (md) => {
         md.use(lightbox, {});
-      },
-    }
+    },
   }
 })
