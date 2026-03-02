@@ -38,7 +38,7 @@ Components which can be defined in the Intro Sequence include:
 - If there will be crossfade between the images ([`crossFade`](#crossFade))
 
 ### `brands`
-<sub>(required)</sub>
+<sub>(required)</sub><br>
 The images used in the intro sequence can be defined by `brands` <br>
 ::: info
 This field is required for the `intro.json` to work
