@@ -24,7 +24,7 @@ With this option enabled, the selected `Control Type` will persist even when usi
 
 <video controls="controls" src="./lock_control_type_change.mp4"/>
 
-- The `Auto` Control Type will apply the type corresponding to the detected controller, or `Java Edition` if using just a keyboard
+- The `Auto Control Type` will apply the type corresponding to the detected controller, or `Java Edition` if using just a keyboard
 
 <video controls="controls" src="./auto_control_type.mp4"/>
 
