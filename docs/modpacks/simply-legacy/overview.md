@@ -4,7 +4,7 @@ title: Overview
 # Simply Legacy
 ![Simply Legacy In-Game](./images/game.png)
 
-Simply Legacy is a modpack aiming to recreate Legacy Console Edition in a manner that is faithful to both the latest versions of LCE and the vanilla Java Edition. Much of this is used as the basis for the experience seen in Re-Console+ <br>
+Simply Legacy is a Legacy4J modpack aiming to recreate Legacy Console Edition in a manner that is faithful to both the latest versions of LCE and the vanilla Java Edition. Much of this is used as the basis for the experience seen in Re-Console+ <br>
 ### Features
 - All the features of Legacy4J, including Save Cache (manual saving support)
 ::: details Screenshot
