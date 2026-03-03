@@ -4,7 +4,7 @@ title: Overview
 # Re-Console+
 ![Re-Console+ In-Game](./images/game.png)
 
-Re-Console+ is a modpack aiming to expand upon the original Legacy Console Edition with common modded enhancements, such as zooming, connected texture, dynamic lighting and better grass textures. <br> There are also additional bundled texture packs, shader support with bundled shaders, integrated voice chat, and much more! <br>
+Re-Console+ is a Legacy4J modpack aiming to expand upon the original Legacy Console Edition experience with common modded enhancements, such as zooming, connected texture, dynamic lighting and better grass textures. <br> There are also additional bundled texture packs, shader support with bundled shaders, integrated voice chat, and much more! <br>
 For information on the original multi-version Re-Console, see [Re-Console LTS](./rc-long-term-support)
 
 ### Features
