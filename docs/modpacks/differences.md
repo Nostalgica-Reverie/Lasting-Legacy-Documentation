@@ -24,7 +24,7 @@ What makes them different is feature scope:
 | Texture Packs | ✅ | ✅ |
 | Mash-up Worlds | ✅ | ✅ |
 | Mini Games* | ✅ | ✅ |
-| Skin Packs** | ✅ | ✅ |
+| Skin Packs | ✅ | ✅ |
 | Manual Saving | ❌ | ✅ |
 | All Tutorial World Revisions <br> Included | ✅ | ❌ |
 | Limited Worlds | ✅ | ✅ |
