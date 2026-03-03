@@ -1,5 +1,5 @@
 ---
-title: Simply Legacy v. RC+
+title: Simply Legacy vs. RC+
 ---
 # Differences between Re-Console+ and Simply Legacy
 
