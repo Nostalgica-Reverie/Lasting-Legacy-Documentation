@@ -8,7 +8,7 @@ Re-Console+ is a Legacy4J modpack aiming to expand upon the original Legacy Cons
 For information on the original multi-version Re-Console, see [Re-Console LTS](./rc-long-term-support)
 
 ### Features
-A lot of the feature set of Re-Console+ is derived from Simply Legacy. It's feature set can be seen [here](../simply-legacy/overview#features).
+A lot of the feature set of Re-Console+ is derived from Simply Legacy, which provides a much closer experience to LCE. You can view its feature set [here](../simply-legacy/overview#features).
 
 In addition, there's also:
 - Additional Texture Packs
