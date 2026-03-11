@@ -37,6 +37,10 @@ Much of these features are used as the basis for the experience seen in Re-Conso
 ::: details Screenshot
 ![Simply Legacy Glide Mini Game](./images/mm.png)
 :::
+- Custom Achievements and Various Sounds
+::: details Video
+<video controls="controls" src="./images/achievements-sounds.mp4"/>
+:::
 - Limited World Sizes and Biome Scale
 ::: details Screenshots
 ![Simply Legacy World Sizes](./images/sizes.png)
