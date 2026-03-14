@@ -24,6 +24,9 @@ ATLauncher provides a similar feature set to Prism Launcher, and can be setup re
 ![ATLauncher Screenshot](./atlauncher.png)
 
 ## Launchers with known issues
+### Lunar Client
+Becausee of the modifications Lunar Client includes out of the box, it should not be used to install our modpacks, as it is guaranteed to cause issues and mod conflicts.
+
 ### CurseForge App
 The CurseForge App is not as stable as the options above due to complications with its ownership, the fact that it isn't entirely dedicated to being a Minecraft Launcher, and lack of optimization compared to other launchers.
 
