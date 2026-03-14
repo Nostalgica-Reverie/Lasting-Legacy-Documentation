@@ -31,10 +31,7 @@ With this option enabled, the selected `Control Type` will persist even when usi
 For information on modifying `Control Icons` and the Minecraft title using a resource pack, see [Custom Control Types](./custom-control-types)
 
 ## Cursor Mode
-This option controls how the mouse cursor should be shown
-- `Auto` shows the cursor when mouse movement is detected, and hides when navigating with the keyboard or gamepad
-- `Always` will show the cursor regardless of input
-- `Never` will hide the cursor in any user interface where it isn't used by a controller (i.e. the cursor will still show in the Inventory, but not in Crafting)
+See [Configuration: Cursor Mode](./configuration#cursor-mode).
 
 ## Key Binds
 Keyboard and Mouse input acts mostly the same as it would on normal Java Edition, but with slight differences.
