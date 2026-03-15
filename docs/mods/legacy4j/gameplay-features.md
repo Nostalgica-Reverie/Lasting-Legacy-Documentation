@@ -35,7 +35,7 @@ This can be disabled by:
 - Joining a multiplayer server
 - Playing a world created in Hardcore Mode
 
-**Troubleshooting** <br>
+#### Save Cache - Troubleshooting
 If you have `Save Cache` enabled and a world in your `saves` directory looks corrupted, check the `currentWorld` folder in case a copy of the world is still there. If so, copy it back to the `saves` directory.
 
 ### Legacy Creative Block Placing
