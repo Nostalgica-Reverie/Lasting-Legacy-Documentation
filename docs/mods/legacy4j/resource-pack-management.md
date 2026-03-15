@@ -2,7 +2,7 @@
 
 In Legacy4J, the way resource packs are managed has been largely overhauled to bring similar functionality to the Texture Packs system used in the Legacy Console Edition.
 
-![Example Image from Simply Legacy](./controls-example.png)
+![Example Image from Simply Legacy](./images/controls-example.png)
 <sub>*Resource Albums are seen as "Texture Packs" on Re-Console+ and Simply Legacy (pictured)</sub>
 
 ## Global Resource Packs

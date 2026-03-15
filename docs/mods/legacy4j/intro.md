@@ -3,7 +3,7 @@
 The Legacy4J intro sequence can be modified with resource packs, from the brand textures used, to whether there will be crossfade or not. This is defined by the `legacy:intro.json` file <br> (You can see its default contents [here](https://github.com/Wilyicaro/Legacy-Minecraft/blob/main/src/main/resources/assets/legacy/intro.json)). <br>
 The intro sequence can be skipped using the RETURN key on keyboard, clicking with the Left Mouse Button, or pressing `A` on an Xbox gamepad.
 
-<video controls="controls" src="./intro.mp4"/>
+<video controls="controls" src="./images/intro.mp4"/>
 <sub>Intro sequence seen in Simply Legacy, using assets from built-in resources and Legacy Modpack Resources</sub>
 
 ## Components
