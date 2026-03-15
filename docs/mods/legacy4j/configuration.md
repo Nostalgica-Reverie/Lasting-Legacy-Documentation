@@ -380,6 +380,8 @@ Renders a vignette when in-game.
 Toggles the visibility of Control Icons in all interfaces.
 
 ## Advanced User Interface
+#### Advanced Options Mode ([Legacy4J Options](./configuration#legacy4j-options) only)
+Determines whether `Show Advanced Options` is displayed or not, or if the Advanced Options interfaces would combine into the main option screens.
 ### In-Game Settings
 #### Display Inverted Crosshair
 Re-enables the inverted crosshair in the heads-up display.
