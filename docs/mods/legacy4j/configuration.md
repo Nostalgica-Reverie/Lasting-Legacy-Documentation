@@ -64,16 +64,13 @@ Adjusts various tool and weapon attributes and disables weapon cooldowns.
 #### Skip Intro
 Skips the intro sequence once the game is finished loading.
 #### Skip Initial Save Warning
-Skips the "This game has a level autosave feature." screen shown after the intro sequence.
+Skips the `This game has a level autosave feature` screen shown after the intro sequence.
 #### Lock Control Type Change
 Prevents the `Java Edition` Control Type taking over when using a Keyboard & Mouse.
 #### Control Type
 Changes the Control Icons and Minecraft logo (if available).
 #### Cursor Mode
-This option controls how the mouse cursor should be shown
-- `Auto` shows the cursor when mouse movement is detected, and hides when navigating with the keyboard or gamepad
-- `Always` will show the cursor regardless of input
-- `Never` will hide the cursor in any user interface where it isn't used by a controller (i.e. the cursor will still show in the Inventory, but not in Crafting)
+Controls how the mouse cursor should be shown. (see [Controls: Cursor Mode](./controls#cursor-mode))
 #### Default Show Craftable Recipes
 Determines if `Show Craftable Recipes` is shown first when opening a Legacy Crafting interface.
 
@@ -171,154 +168,295 @@ Adjusts volume for user interface interactions.
 
 ## Graphics
 #### Clouds
+Adjusts how clouds are rendered.
 #### Preset
+Adjusts the selected options preset.
 #### Display Gamma
+Toggles whether the LCE Gamma should be displayed.
 #### Gamma
+Adjusts the intensity of the gamma shown over the display.
 #### Brightness
+Adjusts the brightness of in-game surfaces and shadows.
 #### Smooth Lighting
+Toggles ambient occlusion, which smooths the game's lighting.
 #### Global Resource Packs
+Sets the resource packs that will always be applied, regardless of Resource Album. Applies on top of albums by default. (see [Resource Pack Management](./resource-pack-management))
 #### Resource Albums
+Sets a profile of multiple resource packs to be applied at once. (see [Resource Pack Management](./resource-pack-management))
 
 ## Advanced Graphics
 ### Video Settings
 #### Fullscreen Resolution
+Sets the resolution the display will use when in Fullscreen mode.
 #### Fullscreen
+Toggles fullscreen mode.
 #### Graphics
+Sets the game's graphics mode.
 #### VSync
+Toggles whether the game should sync its framerate to the monitor's refresh rate.
 #### Max Framerate
+Sets the maximum frames-per-second the game can run at.
 #### FOV
+Sets the camera's vertical field-of-view.
 #### Reduce FPS when
+Sets the condition that would reduce the framerate.
 #### Render Distance
+Sets the maximum distance the player is able to see in chunks.
 #### Simulation Distance
+Sets the maximum distance blocks and entities can tick.
 #### Cloud Distance
+Sets the maximum distance clouds can render.
 #### Chunk Builder
+Determines how chunks should be synchronized during a single frame.
 #### Biome Blend
+Sets the radius for the transition between biomes.
 #### Entity Distance
+Sets the distance entities can be seen at.
 #### Entity Shadows
+Allow entities to display a circular shadow texture below themselves.
 
 ### Legacy Settings
 #### Override Terrain Fog Start
+Allows changing the starting distance for environmental fog.
 #### Terrain Fog Start
+Sets the starting distance for environmental fog.
 #### Override Terrain Fog End
+Allows changing the end distance for environmental fog.
 #### Terrain Fog End
+Sets the end distance for environmental fog.
 #### Legacy Sky Shape
+Adjusts the sky shape to match LCE.
 #### Fast Leaves When Blocked
+Enables the culling of leaf blocks when blocked off on all sides.
 #### Fast Leaves Custom Models
+Displays a custom block model for fast leaves.
 #### Display Name Tag Border
+Displays a colored border around player name tags, corresponding to the player's color.
 #### Display Held Item Lighting
+Lights up the viewmodel (the hands) if any light-emitting block is held.
 #### Enhanced Item Translucency
-#### Display Loyalty Effects
+Renders the transparency in places such as the hotbar in 2D instead of 3D, so you wouldn't see the inside of a chest model, for example.
+#### Display Loyalty Effect
+Displays a reeling effect when a Trident with the Loyalty effect returns to you.
 #### Display Trading Icon
+Displays an icon above villagers who can be traded with.
 #### Legacy Baby Villager Head
+Makes the head on baby villagers bigger.
 #### Legacy Fireworks
+Renders fireworks as a 3D model with a different texture rather than a 2D sprite.
 #### Legacy Evoker Fangs
+Makes Evoker Fangs bigger to match LCE.
 #### Legacy Drowned Animation
+Renders a different swimming animation for the Drowned to match LCE.
 #### Legacy Entity Fire Tint
+Tints burning entities orange, similar to LCE and Bedrock Edition.
 #### Legacy Item Pickup
+Gives the item pickup animation variable speed, like in later versions of LCE.
 #### Enhanced Piston Moving Renderer
+Allows block entities to show during the piston's moving animation.
 #### Legacy Potions Bar
+Adds a level meter to all potions, similar to older versions of LCE.
+#### Random Block Rotations (FactoryAPI)
+Re-enables variable block rotation.
 #### Default Particle Physics
-#### Bubbles Outside Weather
-#### Nearest Mipmap Scaling
+Re-enables particle collision.
+#### Bubbles Outside Water
+Prevents bubble particles from disappearing when outside water.
+#### Nearest Mipmap Scaling (FactoryAPI)
+Makes the distant mipmaps use Nearest Neighbor scaling, achieving a look similar to LCE.
 #### Mipmap Levels
+Adjusts how many mipmap texture iterations can render. Disables when Nearest Mipmap Scaling is enabled.
 
 ### Mixins
 #### Legacy Enchanting Screen
+Enables the Legacy-style screen for the Enchanting Table.
 #### Legacy Classic Merchant Screen
+Enables the classic trading screen from the PS4 Edition.
 #### Legacy Container-like Screen
+Enables the Legacy-style screens for Chests and other containers.
 #### Legacy Boss Health
+Enables the Legacy-style boss health bar.
 #### Legacy Title Screen
+Enables the Legacy-style title screen.
 #### Legacy Brewing Stand Screen
+Enables the Legacy-style screen for the Brewing Stand.
 #### Legacy Cartography Screen
+Enables the Legacy-style screen for the Cartography Table.
 #### Legacy Pause Screen
+Enables the Legacy-style pause screen.
 #### Legacy Classic Stonecutter Screen
+Enables the classic Stonecutter screen from the PS4 Edition.
 #### Legacy Gui
+Enables the Legacy-style heads-up display.
 #### Legacy Witches
+Allows rendering of the Witch's purple cowl, seen in its texture map.
 #### Legacy Book Screen
+Enables the Legacy-style Book/Book & Quill screens.
 #### Legacy Crafter Screen
+Enables a Legacy-style screen for the Crafter.
 #### Legacy Drowned
+Allows the Legacy Drowned Animation to be applied.
 #### Legacy Classic Loom Screen
+Enables the classic Loom screen from the PS4 Edition.
 #### Legacy Beacon Screen
+Enables the Legacy-style screen for the Beacon.
 #### Legacy Classic Crafting Screen
+Enables the Legacy-style Classic Crafting screens.
 #### Legacy Create World Screen
+Enables the Legacy-style Create World screen.
 #### Legacy Chat
+Enables a Legacy-style chat screen.
 #### Legacy Furnace Screen
+Enables the Legacy-style screen for the Furnace.
 #### Legacy Anvil Screen
+Enables the Legacy-style screen for the Anvil.
 #### Legacy Sign Screen
+Enables a Legacy-style screen for all Sign blocks.
 #### Legacy Pack Selection Screen
-#### Legacy Smithing screen
+Enables a Legacy-style resource pack selection screen.
+#### Legacy Smithing Screen
+Enables a Legacy-style screen for the Smithing Table.
 #### Legacy Grindstone Screen
+Enables the Legacy-style screen for the Grindstone.
 #### Legacy Inventory Screen
+Enables the Legacy-style screen for the Player Inventory.
 
 ## User Interface
 #### Display HUD
+Toggles the visibility of the heads-up display. Separate from pressing F1.
 #### Display Hand
+Toggles the visibility of the viewmodel (hands/items). Separate from pressing F1.
 #### Display Save Icon
+Toggles the visibility of the save chest icon.
 #### Display Vanilla Recipe Book
+Toggles the visibility of the Recipe Book in certain screens.
 #### Display Tooltip Boxes
+Toggles the visibility of information sidebars in certain screens.
 #### Attack Indicator
-#### HUD Size 
+Toggles the visibility, or sets the location, of the attack cooldown indicator.
+#### HUD Size
+Sets the size of the heads-up display.
 #### Interface Opacity
+Sets the opacity of the Control Icons and heads-up display.
 #### Interface Distance
+Sets the distance for certain user interface elements.
 #### GUI Scale
+Sets the scale for the entire user interface.
 #### UI Mode
+Sets the user interface mode between Full HD (1080p), HD (720p) and SD (480p).
 #### Interface Sensitivity
+Sets the controller's cursor sensitivity.
 #### Legacy Item Tooltips
+Gives item tooltips a look similar to LCE.
 #### Legacy Item Tooltips Scaling
+Scales item tooltips depending on UI Mode.
 #### In-Game Tooltips
+Displays the Control Icons in the heads-up display.
 #### Animated Character
+Displays a paper doll in the corner of the heads-up display.
 #### Smooth Animated Character
+Renders the paper doll at the game's refresh rate.
 #### Classic Crafting
+Replaces the Crafting interface with one similar to vanilla Java Edition. This merges the Crafting and Inventory screens.
 #### Classic Stonecutting
+Replaces the Stonecutter interface with one similar to vanilla Java Edition.
 #### Classic Loom
+Replaces the Loom interface with one similar to vanilla Java Edition.
 #### Classic Trading
+Replaces the Villager Trading interface with one similar to vanilla Java Edition.
 #### Force Mixed Crafting
+Forces the Mixed Crafting UI (a recipe book frontend) to be used in place of the Legacy Crafting UI.
 #### Mod Crafting Tabs
+Adds Crafting and Creative tabs for mods with registered recipes.
 #### Display Vanilla Tabs
+Adds tabs from the Recipe Book and vanilla Creative Inventory to their respective interfaces.
 #### Search Creative Tab
+Adds a search tab to the Legacy Creative Inventory.
 #### Operator Items Tab
+Adds a tab with operator items to the Creative Inventory.
 #### Vignette
+Renders a vignette when in-game.
 #### Display Control Tooltips
+Toggles the visibility of Control Icons in all interfaces.
 
 ## Advanced User Interface
 ### In-Game Settings
 #### Display Inverted Crosshair
+Re-enables the inverted crosshair in the heads-up display.
 #### Legacy Creative Interface
+Enables the Legacy-style Creative Inventory.
 #### Legacy Advancements Interface
+Enables the Legacy-style Advancements menu.
 #### Leaderboards Interface
+Enables the Legacy-style Statistics menu.
 #### Legacy Overstacked Items
+Shows `99+` instead of the actual number of items in the stack if the stack size is above 99.
 #### Legacy Health Flash
+Renders the healthbar flash animation faster when regenerating health.
 #### HUD Load Delay
-#### Display System Messages As OVerlay
+Sets the amount of time the heads-up display is hidden when leaving a screen.
+#### Display System Messages As Overlay
+Re-enables system messages (such as sleep warnings) displaying in the action bar.
 #### Autosave Countdown
+Allows a five second countdown to display before an autosave.
 #### Advanced Held Item Tooltip
+Enables Advanced tooltips specifically for the held item tooltip.
 #### Selected Item Tooltip Ellipsis
+Adds ellipsis to the end of the held item tooltip if more information is available but cannot be shown.
 #### Selected Item Tooltip Lines
+Adjusts the amount of lines used in the held item tooltip.
 #### Selected Item Tooltip Spacing
+Adjusts the line spacing for the held item tooltip.
 #### Control Tooltip Display
+Sets which side of the screen the Control Icons should render at.
+
 ### Menu Settings
 #### Title Screen Fade
+Enables the fade animation when loading into the title screen.
 #### Title Screen Version Text
+Allows the version information to be displayed in the corner of the title screen.
 #### Menus With Background
+Allows non-Legacy interfaces to render a background overlay (like the dark background of Inventory menus in vanilla)
 #### Legacy Intro & Reloading
+Replaces the Mojang Studios logo with a Legacy-style intro sequence on game launch, and a black screen with a loading animation for resource reloading.
 #### Legacy Loading & Connecting
+Replaces the world loading and server connecting screen with a Legacy-style loading screen.
 #### Legacy Panorama
+Displays a 2D scrolling image as the background panorama.
 #### Fake Autosave Screen
+Displays a fake `Preparing to Autosave Level` screen when an autosave is triggered.
 ### Chat Settings
 #### Reduced Debug Information
+Blocks the visibility of certain information in the debug screen and debug renderers.
 #### Chat
+Toggles between what is visible within the in-game text chat.
 #### Chat Text Opacity
+Adjusts the opacity of text inside of chat.
 #### Text Background Opacity
+Adjusts the opacity of the background for chat.
 #### Chat Text Size
+Adjusts the size of text inside of chat.
 #### Line Spacing
+Adjusts the line spacing for chat.
 #### Chat Delay
+Adjusts the minimum amount of time allowed between chat messages.
 #### Width
+Adjusts the width of the in-game chat.
 #### Focused Height
+Adjusts the maximum height of the chat when the chat screen is active.
 #### Unfocused Height
+Adjusts the maximum height of the chat when outside of the chat screen.
 #### Colors
+Allows colors to be displayed in chat.
 #### Web Links
+Allows web links to be visible in chat.
 #### Prompt on Links
+Shows a confirmation prompt when clicking on a web link.
 #### Text Background
+When disabled, shows a background on any text that doesn't already have a background.
 #### Command Suggestions
-#### Hide Matches Names
+Allows suggestions to display automatically when typing commands.
+#### Hide Matched Names
+If a player is hidden through the Social Interactions menu, the game will attempt to hide messages based on the name of the chat sender.
 #### Only Show Secure Chat
+Only display messages from other players that can be verified to have been sent by that player, and have not been modified.
