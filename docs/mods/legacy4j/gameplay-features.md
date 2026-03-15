@@ -22,10 +22,13 @@ If you are the host of a world, regardless of whether of not `Host Privileges` i
 - This is available by pressing the `H` key by default, or `Back` on gamepad, then pressing `Host Options`
 - This gives you access to various gamerules, [common options](#legacy4j-common-options) and various mixins
 - If `Host Privileges` is enabled, you will also have access to more gamerules, as well as time and weather control.
+<br>
+<br>
+<br>
 
-## Legacy4J Options
+# Legacy4J Options
 Options applied through the `config/legacy/client_options.json`, available in `Advanced Game Options`
-### Save Cache
+## Save Cache
 Save Cache is used to add the manual saving functionality seen in Xbox One and PlayStation 4 Editions of LCE. <br>
 This means that autosaving can be toggled off in the Pause Menu, or by setting the Autosave Interval to OFF. <br>
 Unless `Fake Autosave Screen` (`Advanced User Interface`) is enabled, this is done without interruption, like in vanilla Java Edition.
@@ -35,15 +38,18 @@ This can be disabled by:
 - Joining a multiplayer server
 - Playing a world created in Hardcore Mode
 
-#### Save Cache - Troubleshooting
+### Save Cache - Troubleshooting
 If you have `Save Cache` enabled and a world in your `saves` directory looks corrupted, check the `currentWorld` folder in case a copy of the world is still there. If so, copy it back to the `saves` directory.
 
-### Legacy Creative Block Placing
+## Legacy Creative Block Placing
 Creative block placement from LCE has been implemented. This allows block placement to match your flight speed.
+<br>
+<br>
+<br>
 
-## Legacy4J Common Options
+# Legacy4J Common Options
 Options applied through the `config/legacy/common.json`, available in `Advanced Game Options`, or `Host Options` when in-game
-### Legacy Combat
+## Legacy Combat
 Legacy Combat enables the combat system used prior to Java Edition's Combat Update, and currently used on Bedrock Edition. <br>
 - This changes how many of the attributes are displayed to visually match LCE:
 ![Tooltips with and without Legacy Combat](./combat-tooltips.png)
@@ -51,14 +57,17 @@ Legacy Combat enables the combat system used prior to Java Edition's Combat Upda
 - Sweep attacks are still available, but requires any level of the Sweeping Edge enchantment
 This is controlled by the `legacyCombat` common option, 
 
-### Legacy Sword Blocking
+## Legacy Sword Blocking
 Legacy Sword Blocking enables the sword blocking mechanic available prior to Java Edition's Combat Update.
 - This can be toggled separately from Legacy Combat, meaning you can have sword blocking with modern combat
 - Like other item actions, the off-hand has priority, so using a shield, for example, is still possible if held in the off-hand
+<br>
+<br>
+<br>
 
-## Gamerules
+# Gamerules
 These gamerules can be toggled and adjusted in `Existing World/Create New World > More Options > Game Options` or in `Host Options`
-### Legacy Flight
+## Legacy Flight
 The Creative flight from LCE has been fully implemented.
 - Flying no longer maintains momentum, so you can stop much faster
 - Sprint flight is much faster than in vanilla
@@ -66,7 +75,7 @@ The Creative flight from LCE has been fully implemented.
 - Slow flying is 4-directional
 This is controlled by the `legacyFlight` gamerule.
 
-### Legacy Swimming
+## Legacy Swimming
 Swimming from Update Aquatic and newer versions of LCE have been implemented.
 - Swimming can be invoked when looking below the horizon line
 - Swimming can be invoked in water of any height
@@ -75,14 +84,14 @@ Swimming from Update Aquatic and newer versions of LCE have been implemented.
 - Friction at the water's surface is lessened
 This is controlled by the `legacySwimming` gamerule.
 
-### TNT Limit
+## TNT Limit
 The `tntLimit` gamerule can be used to limit the amount of Primed TNT entites that can exist in a world. <br>
 This is controlled with an integer value, and defaults to `20`
 
-### Starter Map
+## Starter Map
 `starterMap` controls whether or not new players will spawn with an Empty Map. <br>
 This is controlled by a boolean, and defaults to `true`
 
-### Starter Bundle
+## Starter Bundle
 `starterBundle` controls whether or not new players will spawn with a Bundle item. <br>
 This is controlled by a boolean, and defaults to `false`
