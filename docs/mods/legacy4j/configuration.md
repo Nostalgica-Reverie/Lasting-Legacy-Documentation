@@ -15,6 +15,89 @@ Legacy4J Options can be accessed by pressing the `Y` key (by default) in a world
 Below is a list of all options (Vanilla or Legacy4J) accessible in `Help & Options > Settings` and the Legacy4J Options screen, with explanations on their function. <br>
 Pages prefixed with "Advanced" are Advanced Options pages, and can be accessed in the Settings menus by activating `Show Advanced Options` with the provided key, or by clicking the tooltip.
 
+## Mouse Settings
+#### Sensitivity
+Sets the sensitivity of the mouse for controlling the camera.
+#### Scroll Sensitivity
+Sets the sensitivity of the scroll wheel for hotbar selection and Spectator Mode speed.
+#### Invert Mouse X
+Inverts the camera's horizontal movement.
+#### Invert Mouse Y
+Inverts the camera's vertical movement.
+#### Discrete Scrolling
+Forces the game to register each scroll input as a single scroll input, ignoring any scroll acceleration set by the operating system.
+#### Touchscreen Mode
+Changes certain in-game mouse inputs to work better with a touchscreen.
+#### Cursor At First Inventory Slot
+Determines if opening an inventory or container will place the cursor in the first hotbar slot.
+#### System Cursor
+Allows the operating system's mouse cursor to display instead of the in-game cursor.
+
+## Key Binds
+#### Reset to Defaults
+Resets all the keyboard binds to their defaults.
+#### Unbind Conflicting Keys
+Automatically removes the older bind when setting a bind with a key that has already been set.
+#### Toggle Sneak
+Allows sneaking to be triggered by toggling a key rather than holding it.
+#### Toggle Sprint
+Allows sprinting to be triggered by toggling a key rather than holding it.
+#### Toggle Use
+Allows item usage to be triggered by toggling a key rather than holding it.
+#### Toggle Attack
+Allows attacking to be triggered by toggling a key rather than holding it.
+
+## Controller
+#### Reset to Defaults
+Resets all the controller binds to their defaults.
+#### Unbind Conflicting Keys
+Automatically removes the older bind when setting a bind with a key that has already been set.
+#### Display Connnection Toasts
+Displays a pop-up notification when a controller is connected or disconnected.
+#### Toggle Sneak
+Allows sneaking to be triggered by toggling a button rather than holding it.
+#### Toggle Sprint
+Allows sprinting to be triggered by toggling a button rather than holding it.
+#### Toggle Use
+Allows item usage to be triggered by toggling a button rather than holding it.
+#### Toggle Attack
+Allows attacking to be triggered by toggling a button rather than holding it.
+#### Invert Buttons Layout
+Flips the `X`/`Y` and `A`/`B` face buttons.
+#### Virtual Cursor
+Allows the controller to control the cursor independently of the mouse cursor. Helpful for multi-instance gameplay.
+#### Legacy Cursor Movement
+Allows the controller cursor to more easily lock to straight lines.
+#### Limit Cursor to Inventory Bounds
+Prevents the controller cursor from leaving the outer bounds of inventory and container interfaces.
+#### Double-Click In Inventory
+Enables the double-click features for inventory management. Can cause unintentional inputs if activating certain functions too fast.
+#### Cursor At First Inventory Slot
+Determines if opening an inventory or container will place the cursor in the first hotbar slot.
+#### Controller
+Sets the active controller. Helpful for multi-instance gameplay with multiple controllers connected.
+#### Controller Handler
+Sets the active controller library to use, or disables controller support.
+#### Sensitivity
+Sets the maximum speed of the joystick camera.
+#### Left Stick Dead Zone
+Sets the inner dead zone for the left joystick.
+#### Right Stick Dead Zone
+Sets the inner dead zone for the right joystick.
+#### Left Trigger Dead Zone
+Sets the inner dead zone for the left trigger.
+#### Right Trigger Dead Zone
+Sets the inner dead zone for the right trigger.
+### Movement
+#### Invert Look
+Inverts the camera's vertical movement.
+#### Smooth Movement
+Allows gradual movement using the analog stick.
+#### Force Smooth Movement
+Forces the ability to have gradual movement using the analog stick.
+#### Linear Camera Movement
+Adjusts the responce curve of the joystick camera to be linear instead of exponential, like in Bedrock Edition.
+
 ## Game Options
 #### Auto-Jump
 Allows the player to automatically jump when approaches a block with a block of air above it.
@@ -34,7 +117,7 @@ Opens the mod list, with mod configuration screens available if [Mod Menu](https
 ## Advanced Game Options
 ### In-Game Settings
 #### Force Active Window
-Allows an assigned gamepad to control the game, even when the window is unfocused.
+Allows an assigned gamepad to control the game, even when the window is unfocused. Helpful for multi-instance gameplay.
 #### Inverted Front Camera Pitch
 Makes the player's head look towards the camera when in the Third Person Front camera mode.
 #### Head Follows The Camera
