@@ -37,7 +37,7 @@ In addition, there's also:
 :::
 - C2ME and FastQuit
 ::: warning
-These mods prevent the Manual Save Cache from being enabled. If you do enable it, you're at risk of corrupting your world.
+These mods prevent the Manual [Save Cache](/mods/legacy4j/gameplay-features#save-cache) from being enabled. If you do enable it, you're at risk of corrupting your world.
 :::
 ::: details
 ![Re-Console+ Saving](./images/save.png)
