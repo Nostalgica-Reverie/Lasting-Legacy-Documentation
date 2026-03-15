@@ -24,7 +24,7 @@ If you are the host of a world, regardless of whether of not `Host Privileges` i
 - If `Host Privileges` is enabled, you will also have access to more gamerules, as well as time and weather control.
 
 ## LCE-style Mipmaps and Block Rotations
-Using [FactoryAPI](/mods/factoryapi/overview#player-features), the distant textures are scaled with Nearest Neighbor scaling, and random block rotations can be toggled. <br>
+Using [FactoryAPI](/mods/factoryapi/overview#player-features), distant textures are scaled with Nearest Neighbor scaling, and random block rotations can be toggled. <br>
 These options combine to give the game a bit of that iconic look!
 
 By default, [Random Block Rotations](/mods/legacy4j/configuration#random-block-rotations-factoryapi) is disabled, and [Nearest Mipmap Scaling](/mods/legacy4j/configuration#nearest-mipmap-scaling-factoryapi) is enabled. <br> You can find these under [`Advanced Graphics`](/mods/legacy4j/configuration#advanced-graphics) options, and can also be found in the FactoryAPI mod options.
