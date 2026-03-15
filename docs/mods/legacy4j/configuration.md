@@ -27,9 +27,9 @@ Allows the camera to have a "rolling" animation when flying with an Elytra.
 #### Autosave Interval
 Adjusts the amount of time between autosaves in five minute intervals. OFF disables autosave, and will fallback to manual saving if [Save Cache](#save-cache) is enabled.
 #### Languages
-Opens the language selection screen
+Opens the language selection screen.
 #### Mods
-Opens the mod menu.
+Opens the mod list, with mod configuration screens available if [Mod Menu](https://modrinth.com/mod/modmenu) is installed.
 
 ## Advanced Game Options
 ### In-Game Settings
