@@ -51,7 +51,7 @@ Determining whether or not `templateLocation` is a game path can be done with `i
 The name of the world's folder when saved to the `saves` folder is defined using `folderName`. This can simply be a plaintext string.
 
 ### `downloadURI`
-A remove download URI can be defined using `downloadURI`. This would simply be a link to a remote location where your save file is hosted.
+A remove download URI can be defined using `downloadURI`. This would simply be a direct link to the save file from a remote location where it is hosted.
 
 ### `preDownload`
 Whether or not a World Template save is downloaded on resource load can be controlled with `preDownload`, set with a boolean.
