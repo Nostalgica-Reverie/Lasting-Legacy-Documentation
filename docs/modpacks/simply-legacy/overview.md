@@ -46,7 +46,7 @@ Much of these features are used as the basis for the experience seen in Re-Conso
 ![Simply Legacy World Sizes](./images/sizes.png)
 ![Simply Legacy World Sizes Map](./images/sizes-map.png)
 :::
-- [Custom Legacy4J Options Presets](/modpacks/options-presets)
+- [Custom Legacy4J Options Presets](/modpacks/option-presets)
   - Render Distance maxes out at 64 chunks
   - Easily enable/disable the Fake Autosave Screen
 ::: details Screenshots
