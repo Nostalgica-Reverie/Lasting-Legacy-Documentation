@@ -1,5 +1,5 @@
-# Gameplay Features
-Legacy4J introduces several fundamental gameplay changes to match the experience provided by the Legacy Console Edition.
+# Gameplay/Visual Features
+Legacy4J introduces several fundamental gameplay and in-game visual changes to match the experience provided by the Legacy Console Edition.
 
 ## Legacy Crafting and Creative Menus
 The Crafting System and Creative Inventory as of the latest versions of LCE has been fully implemented. <br>
@@ -22,6 +22,15 @@ If you are the host of a world, regardless of whether of not `Host Privileges` i
 - This is available by pressing the `H` key by default, or `Back` on gamepad, then pressing `Host Options`
 - This gives you access to various gamerules, [common options](#legacy4j-common-options) and various mixins
 - If `Host Privileges` is enabled, you will also have access to more gamerules, as well as time and weather control.
+
+## LCE-style Mipmaps and Block Rotations
+Using [FactoryAPI](/mods/factoryapi/overview#player-features), the distant textures are scaled with Nearest Neighbor scaling, and random block rotations can be toggled. <br>
+These options combine to give the game a bit of that iconic look!
+
+By default, [Random Block Rotations](/mods/legacy4j/configuration#random-block-rotations-factoryapi) is disabled, and [Nearest Mipmap Scaling](/mods/legacy4j/configuration#nearest-mipmap-scaling-factoryapi) is enabled. <br> You can find these under [`Advanced Graphics`](/mods/legacy4j/configuration#advanced-graphics) options, and can also be found in the FactoryAPI mod options.
+::: details Comparison
+![Mipmap Visuals Comparison](./images/mipmap-comparison.gif)
+:::
 <br>
 <br>
 <br>
@@ -52,7 +61,7 @@ Options applied through the `config/legacy/common.json`, available in `Advanced 
 ## Legacy Combat
 Legacy Combat enables the combat system used prior to Java Edition's Combat Update, and currently used on Bedrock Edition. <br>
 - This changes how many of the attributes are displayed to visually match LCE:
-![Tooltips with and without Legacy Combat](./combat-tooltips.png)
+![Tooltips with and without Legacy Combat](./images/combat-tooltips.png)
 - Damage values have been reduced to match either LCE or Bedrock
 - Sweep attacks are still available, but requires any level of the Sweeping Edge enchantment
 This is controlled by the `legacyCombat` common option, 
@@ -61,6 +70,9 @@ This is controlled by the `legacyCombat` common option,
 Legacy Sword Blocking enables the sword blocking mechanic available prior to Java Edition's Combat Update.
 - This can be toggled separately from Legacy Combat, meaning you can have sword blocking with modern combat
 - Like other item actions, the off-hand has priority, so using a shield, for example, is still possible if held in the off-hand
+
+## Squared View Distance
+Squared View Distance allows chunks on the edge of Render Distance to render in a square shape, rather than a circle.
 <br>
 <br>
 <br>
