@@ -9,6 +9,8 @@ We recommend installing our modpacks from Modrinth, as these versions are the mo
 ### [Prism Launcher](https://prismlauncher.org)
 If you'd like to have more granular control over your setup, we recommend using Prism Launcher. It offers powerful, in-depth instance and content management, with support for both Modrinth and CurseForge. <br> It is also the best option for those using Steam Gaming Mode (like on Steam Deck or a Linux distro such as Bazzite), as it provides an easy route to add your instance to Steam.
 
+To install, click on "Add Instance", navigate to the Modrinth tab and search for a modpack.
+
 ![Prism Launcher Screenshot](./prism_launcher.png)
 
 ### [Modrinth App](https://modrinth.com/app)
@@ -19,7 +21,9 @@ To install, simply head to "Discover content" and search in the "Modpacks" tab.
 ![Modrinth App Screenshot](./modrinth_app.png)
 ### [ATLauncher](https://atlauncher.com/)
 
-ATLauncher provides a similar feature set to Prism Launcher, and can be setup relatively easily. Just open the "Packs" tab, navigate to "Modrinth" and search for the pack you'd like to play.
+ATLauncher provides a similar feature set to Prism Launcher, and can be setup relatively easily.
+
+To install, just open the "Packs" tab, navigate to "Modrinth" and search for the pack you'd like to play.
 
 ![ATLauncher Screenshot](./atlauncher.png)
 
