@@ -40,7 +40,7 @@ features:
   - title: 2000s Edition
     icon:
       src: /2000s-icon.png
-    details: Imagine if the Legacy Console Edition was released in the early 2000s.
+    details: Legacy Console Edition if it was made for 2000s-era PC's and the 6th Generation of Video Game Consoles!
     link: /modpacks/2000s-edition/overview
     linkText: Overview
 ---
