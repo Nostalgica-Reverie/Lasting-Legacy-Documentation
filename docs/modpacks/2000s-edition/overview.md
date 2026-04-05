@@ -24,7 +24,7 @@ Resource Album ID: `xbox`
 Resource Album ID: `ps2`
 ### GameCube Edition
 "This aims to make it more like the GameCube system."<br>
-Resource Album ID: `gc `
+Resource Album ID: `gc`
 ### Dreamcast Edition
 "This aims to make it more like the Dreamcast system."<br>
 Resource Album ID: `dreamcast`
