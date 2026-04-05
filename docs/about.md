@@ -12,6 +12,11 @@ Lasting Legacy is a group of developers, artists and contributors dedicated to m
 ### Legacy4J
 WilyIcaro <br>
 pizzart <br>
+#### Contributors
+Creepereater201 <br>
+BrandonItaly <br>
+Jab125 <br>
+RedRain0o0 <br>
 Nabouna32 <br>
 Androser 
 
