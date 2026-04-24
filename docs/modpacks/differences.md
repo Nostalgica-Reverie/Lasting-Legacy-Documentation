@@ -14,6 +14,10 @@ What makes them different is feature scope:
 - ❌ Not included
 - 📝 Planned
 
+::: info Disclaimer
+These charts mostly pertain to the Modrinth versions of the modpacks. The CurseForge versions have less features due to issues with the distribution of certain projects on the platform.
+:::
+
 ## LCE Features
 
 | | Re-Console+ | Simply Legacy |
