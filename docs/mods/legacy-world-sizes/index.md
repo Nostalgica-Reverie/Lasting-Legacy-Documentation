@@ -8,7 +8,7 @@ hero:
   text: ""
   tagline: All the Limited World features from Legacy Console Edition, adapted for all kinds of world generation.
   image:
-    src: /lws-icon.png
+    src: /lws-icon.webp
     alt: 'Legacy World Sizes Icon'
   actions:
     - theme: brand

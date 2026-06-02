@@ -61,7 +61,7 @@ Options applied through the `config/legacy/common.json`, available in `Advanced 
 ## Legacy Combat
 Legacy Combat enables the combat system used prior to Java Edition's Combat Update, and currently used on Bedrock Edition. <br>
 - This changes how many of the attributes are displayed to visually match LCE:
-![Tooltips with and without Legacy Combat](./images/combat-tooltips.png)
+![Tooltips with and without Legacy Combat](./images/combat-tooltips.webp)
 - Damage values have been reduced to match either LCE or Bedrock
 - Sweep attacks are still available, but requires any level of the Sweeping Edge enchantment
 This is controlled by the `legacyCombat` common option, 

@@ -11,18 +11,18 @@ The intro sequence can be skipped using the RETURN key on keyboard, clicking wit
 ```json
 {
    "brands": [
-       "legacy:textures/gui/intro/loading3.png",
-       "legacy:textures/gui/intro/loading.png",
-       "legacy:textures/gui/intro/loading1.png",
-       "legacy:textures/gui/intro/loading2.png",
-       "legacy:textures/gui/intro/loading3.png",
-       "legacy:textures/gui/intro/eula.png",
-       "legacy:textures/gui/intro/lasting.png",
-       "legacy:textures/gui/intro/mojang.png",
-       "legacy:textures/gui/intro/4j.png",
-       "legacy:textures/gui/intro/xbox.png"
+       "legacy:textures/gui/intro/loading3.webp",
+       "legacy:textures/gui/intro/loading.webp",
+       "legacy:textures/gui/intro/loading1.webp",
+       "legacy:textures/gui/intro/loading2.webp",
+       "legacy:textures/gui/intro/loading3.webp",
+       "legacy:textures/gui/intro/eula.webp",
+       "legacy:textures/gui/intro/lasting.webp",
+       "legacy:textures/gui/intro/mojang.webp",
+       "legacy:textures/gui/intro/4j.webp",
+       "legacy:textures/gui/intro/xbox.webp"
     ],
-    "background": "legacy:textures/gui/intro/background.png",
+    "background": "legacy:textures/gui/intro/background.webp",
     "brandDuration": 2500,
     "fadeIn": 0.1,
     "fadeOut": 0.1,

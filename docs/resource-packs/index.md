@@ -8,7 +8,7 @@ hero:
   text: "Resource Packs"
   tagline: Resource Packs adding visual features from Legacy Console Edition
   image:
-    src: /banner.png
+    src: /banner.webp
     alt: 'Lasting Legacy Banner'
   actions:
     - theme: brand

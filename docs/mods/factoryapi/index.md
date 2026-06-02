@@ -8,7 +8,7 @@ hero:
   text: ""
   tagline: An API that adds several client and server side functions, both for developers and those who make resource packs
   image:
-    src: /factoryapi-icon.png
+    src: /factoryapi-icon.webp
     alt: 'FactoryAPI Icon'
   actions:
     - theme: brand

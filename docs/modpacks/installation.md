@@ -11,21 +11,21 @@ If you'd like to have more granular control over your setup, we recommend using 
 
 To install, click on "Add Instance", navigate to the Modrinth tab and search for a modpack.
 
-![Prism Launcher Screenshot](./prism_launcher.png)
+![Prism Launcher Screenshot](./prism_launcher.webp)
 
 ### [Modrinth App](https://modrinth.com/app)
 For the quickest and easiest installation, we recommend using the Modrinth App. It offers direct access to Modrinth services, allowing you to follow projects and update content directly from the app. It does not, however, have access to CurseForge services, meaning you'll have to download CF content off the internet manually.
 
 To install, simply head to "Discover content" and search in the "Modpacks" tab.
 
-![Modrinth App Screenshot](./modrinth_app.png)
+![Modrinth App Screenshot](./modrinth_app.webp)
 ### [ATLauncher](https://atlauncher.com/)
 
 ATLauncher provides a similar feature set to Prism Launcher, and can be setup relatively easily.
 
 To install, just open the "Packs" tab, navigate to "Modrinth" and search for the pack you'd like to play.
 
-![ATLauncher Screenshot](./atlauncher.png)
+![ATLauncher Screenshot](./atlauncher.webp)
 
 ## Launchers with known issues
 ### Lunar Client

@@ -8,7 +8,7 @@ hero:
   text: "Data Packs"
   tagline: Data Packs adding functionality from Legacy Console Edition
   image:
-    src: /banner.png
+    src: /banner.webp
     alt: 'Lasting Legacy Banner'
   actions:
     - theme: brand

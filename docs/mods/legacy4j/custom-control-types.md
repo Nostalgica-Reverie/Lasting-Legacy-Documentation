@@ -20,12 +20,12 @@ To make custom control types, you need:
     │   └── component
     │       └── pad
     │           ├── hd
-    │           │   ├── back_button.png
+    │           │   ├── back_button.webp
     │           │   └── [...]
     │           ├── sd
-    │           │   ├── back_button.png
+    │           │   ├── back_button.webp
     │           │   └── [...]
-    │           ├── back_button.png
+    │           ├── back_button.webp
     │           └── [...]
     └── control_types.json
 ```
@@ -38,7 +38,7 @@ This JSON determines the
     "providers":[
     {
             "type": "bitmap",
-            "file": "legacy:component/pad/hd/down_button.png",
+            "file": "legacy:component/pad/hd/down_button.webp",
             "ascent": 11,
             "height": 15,
             "chars": ["\uE735"]

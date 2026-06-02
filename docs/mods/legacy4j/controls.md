@@ -4,7 +4,7 @@ While Legacy4J can still play in a similar manner to vanilla Java Edition, there
 ## Control Icons
 Also commonly known as _controller tooltips_, these are the icons are used to surface available actions in the current context.
 
-![Control Icons Example](./images/control-icons.png)
+![Control Icons Example](./images/control-icons.webp)
 <sub> The icons you could see in a Crafting Table when using a Keyboard and Mouse </sub>
 
 ### Changing the Appearance
@@ -14,7 +14,7 @@ Also commonly known as _controller tooltips_, these are the icons are used to su
 <sub>Changing the Control Type with the Legacy Titles resource pack</sub>
 
 - The icons will also change appearance based on the set `UI Mode`
-![Tooltips in various UI Modes](./images/control-icons-res.png)
+![Tooltips in various UI Modes](./images/control-icons-res.webp)
 <sub> Xbox 360 Edition icons at Full HD (1080p), HD (720p) and SD (480p) modes, respectively</sub>
 
 **Lock Control Type Change** <br>

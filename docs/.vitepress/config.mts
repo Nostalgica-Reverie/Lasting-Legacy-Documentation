@@ -11,12 +11,12 @@ export default defineConfig({
   },
 
   title: "Lasting Legacy Docs",
-  head: [['link', { rel: 'icon', href: '/favicon.png' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.webp' }]],
   description: "Documentation for projects under Lasting Legacy, including Legacy4J and Re-Console",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: 'Documentation',
-    logo: '/logo.png',
+    logo: '/logo.webp',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Mods', link: '/mods' },
